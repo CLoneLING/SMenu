@@ -1,5 +1,5 @@
 # SMenu
-## [![Passing](https://img.shields.io/badge/SMenu-passing-green/?style=for-the-badge&logo=github)]()
+[![Passing](https://img.shields.io/badge/SMenu-passing-green/?style=for-the-badge&logo=github)]()
 
 SMenu is a Software composed of Windows Batch Scripts and VBScript.
 ## Indicate
