@@ -3,6 +3,7 @@
           {:ac
               "Application:started"
               "Version_Information:0.1.2.26"
+              ">%-26"
           }
 }
 Loaded=true
